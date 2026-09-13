@@ -130,6 +130,23 @@ GTA San Andreas/
 
 Перед публичной отправкой отчёт можно самостоятельно просмотреть.
 
+<h2 align="center">🌐 Community & Links</h2>
+
+<p align="center">
+  <a href="https://youtube.com/@mrremkagit">
+    <img src="https://img.shields.io/badge/YouTube-MrRemka-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://t.me/mrremka">
+    <img src="https://img.shields.io/badge/Telegram-MrRemka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/ejhdRTGjkJ">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  Следите за развитием проекта, сообщайте об ошибках и присоединяйтесь к сообществу 💙
+</p>
+
 ## ⚠️ Отказ от ответственности
 
 Проект является независимым и не связан с Rockstar Games или Take-Two Interactive.
