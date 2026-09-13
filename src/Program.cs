@@ -116,7 +116,7 @@ public class AnimatedButton : Control
 public class MainForm : Form
 {
     private const string VERSION = "1.0.0";
-    private const string DEFAULT_SUPPORT_URL = "https://github.com/YOUR_USERNAME/GTA3-IMG-Switcher/issues/new";
+    private const string DEFAULT_SUPPORT_URL = "https://github.com/mrremka/GTA3-IMG-Switcher/issues/new/choose";
 
     private string appDataDir;
     private string logsDir;
