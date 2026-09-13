@@ -149,3 +149,20 @@ MIT License. See [LICENSE](LICENSE).
 Made for the GTA San Andreas modding community ❤️
 
 </div>
+<h2 align="center">🌐 Community & Links</h2>
+
+<p align="center">
+  <a href="https://youtube.com/@mrremkagit">
+    <img src="https://img.shields.io/badge/YouTube-MrRemka-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://t.me/mrremka">
+    <img src="https://img.shields.io/badge/Telegram-MrRemka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/ejhdRTGjkJ">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Follow the project, report bugs and join the community 💙
+</p>
