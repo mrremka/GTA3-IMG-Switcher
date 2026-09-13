@@ -132,23 +132,6 @@ Diagnostic reports may contain:
 
 Review report files before posting them publicly.
 
-## ⚠️ Disclaimer
-
-This project is independent and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
-
-Always keep backups of important modded files.
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE).
-
----
-
-<div align="center">
-
-Made for the GTA San Andreas modding community ❤️
-
-</div>
 <h2 align="center">🌐 Community & Links</h2>
 
 <p align="center">
@@ -166,3 +149,21 @@ Made for the GTA San Andreas modding community ❤️
 <p align="center">
   Follow the project, report bugs and join the community 💙
 </p>
+
+## ⚠️ Disclaimer
+
+This project is independent and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
+
+Always keep backups of important modded files.
+
+## 📄 License
+
+MIT License. See [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+
+Made for the GTA San Andreas modding community ❤️
+
+</div>
