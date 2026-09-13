@@ -1,0 +1,63 @@
+name: Bug report
+description: Report a problem with GTA3 IMG Switcher
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Please do not upload private files you do not want to share publicly.
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / Язык
+      options:
+        - English
+        - Русский
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened? / Что произошло?
+      description: Describe the problem and what you expected instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Как повторить?
+      placeholder: |
+        1. Open...
+        2. Click...
+        3. Error appears...
+    validations:
+      required: true
+
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostic text
+      description: Paste diagnostics copied by "Report a problem", or attach diagnostics.txt and latest.log.
+      render: text
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I closed GTA San Andreas before switching.
+        - label: I checked the FAQ and Troubleshooting pages.
+        - label: I reviewed the diagnostic files before posting them publicly.
